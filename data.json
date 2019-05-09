@@ -1,0 +1,13 @@
+data = [
+  [
+    ['Red', 'Yellow', 'Blue', 'Green', 'Grey', 'Brown'],
+    [12,14,16,18,23,24]
+  ],
+  [
+    ["North", "East", "West", "South"],
+    [100,150,200,251]
+  ],
+  [
+    ['example@gmail.com', '123456']
+  ]
+]
